@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\AndroidstudioProjects\MultiTouchDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9dbd7efcf1001c8602f81cd60996e20ab505d544">
+        <dex dex="C:\AndroidstudioProjects\MultiTouchDemo\app\build\intermediates\pre-dexed\debug\instant-run_a8b4e096568e44b3f86ba71a5e71770392f6980b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidstudioProjects\MultiTouchDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="23f9f8ae23a295658922d4a23cb09ce577c25041">
+        <dex dex="C:\AndroidstudioProjects\MultiTouchDemo\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_1a37f40fd295831d8741440a0206cb8e0f2553f1.jar" />
+    </item>
+
+</items>
